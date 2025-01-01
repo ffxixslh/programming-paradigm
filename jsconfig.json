@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "System",
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
